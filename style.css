@@ -72,3 +72,7 @@ nav ul li p {
   font-size: 12px;
   margin: 2px 0;
 }
+
+nav ul li.active {
+  font-weight: 600;
+}
